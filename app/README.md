@@ -28,3 +28,4 @@ Following the Google's Quickstart: https://ai.google.dev/edge/mediapipe/solution
 
 **Initialize and run the task**
 * Follow the Quickstart and the code in `MainActivity.kt` and `ChatViewModel.kt` for reference.
+* In my experience, getting a response to short prompts didn't take more than 1 minute.  See [the attached screenshot](screenshot.png).
